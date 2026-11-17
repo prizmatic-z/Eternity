@@ -1,9 +1,20 @@
 # Eternity
 [System]: If you're here for Dynablocks Cloud, you are not worthy. Virus Noob knows that, he'll just give you what you need for the Cloud.
+
+
 [A Mysterious Noob]: This is just the beginning.
+
+
 [A Mysterious Noob]: Talk to Virus Noob to start.
+
+
 [A Mysterious Noob]: However, to do so, you must prove thyself worthy.
+
+
 [A Mysterious Noob]: Solve the puzzle...
+
+
+
 
 <!DOCTYPE html>
 <html lang="en">
